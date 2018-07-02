@@ -1,0 +1,14 @@
+D:\Projects\C#\MyTotalCommander\bin\Debug\MyTotalCommander.exe.config
+D:\Projects\C#\MyTotalCommander\obj\Debug\MyTotalCommander.csprojResolveAssemblyReference.cache
+D:\Projects\C#\MyTotalCommander\obj\Debug\MyTotalCommander.frmMain.resources
+D:\Projects\C#\MyTotalCommander\obj\Debug\MyTotalCommander.Properties.Resources.resources
+D:\Projects\C#\MyTotalCommander\obj\Debug\MyTotalCommander.csproj.GenerateResource.Cache
+D:\Project\C#\MyTotalCommander\bin\Debug\MyTotalCommander.exe.config
+D:\Project\C#\MyTotalCommander\obj\Debug\MyTotalCommander.csprojResolveAssemblyReference.cache
+D:\Project\C#\MyTotalCommander\obj\Debug\MyTotalCommander.frmMain.resources
+D:\Project\C#\MyTotalCommander\obj\Debug\MyTotalCommander.Properties.Resources.resources
+D:\Project\C#\MyTotalCommander\obj\Debug\MyTotalCommander.csproj.GenerateResource.Cache
+D:\Project\C#\MyTotalCommander\bin\Debug\MyTotalCommander.exe
+D:\Project\C#\MyTotalCommander\bin\Debug\MyTotalCommander.pdb
+D:\Project\C#\MyTotalCommander\obj\Debug\MyTotalCommander.exe
+D:\Project\C#\MyTotalCommander\obj\Debug\MyTotalCommander.pdb
